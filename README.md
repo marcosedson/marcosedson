@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Marcos Edson</h1>
+<h1 align="center">Oi 👋, me chamo Marcos Edson</h1>
 <h3 align="center">Um desenvolvedor fullstack apaixonado do Brasil</h3>
 
 - 🔭 No momento estou trabalhando [Gordem](gordem-dev.tecnologia.ws/login)
